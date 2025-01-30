@@ -40,7 +40,7 @@
 
     [tool.poetry.group]
         [tool.poetry.group.dev.dependencies]
-            black="^23.3.0"
+            black=">=23.3,<25.0"
             circuitsvis=">=1.38.1"
             isort="5.8.0"
             jupyter=">=1.0.0"
